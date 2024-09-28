@@ -1,0 +1,45 @@
+{
+    "quizzes": [
+      {
+        "id": 1,
+        "category": "HTML",
+        "questions": [
+          {
+            "question": "What does HTML stand for?",
+            "options": [
+              "Hyper Text Markup Language",
+              "High Text Markup Language",
+              "Hyper Tabular Markup Language"
+            ],
+            "answer": "Hyper Text Markup Language"
+          },
+          {
+            "question": "Which HTML element defines the title of a document?",
+            "options": ["<title>", "<head>", "<meta>"],
+            "answer": "<title>"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "category": "CSS",
+        "questions": [
+          {
+            "question": "What does CSS stand for?",
+            "options": [
+              "Creative Style Sheets",
+              "Cascading Style Sheets",
+              "Colorful Style Sheets"
+            ],
+            "answer": "Cascading Style Sheets"
+          },
+          {
+            "question": "Which property is used to change the background color?",
+            "options": ["bgcolor", "background-color", "color"],
+            "answer": "background-color"
+          }
+        ]
+      }
+    ]
+  }
+  
